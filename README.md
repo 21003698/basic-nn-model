@@ -9,8 +9,8 @@ To develop a neural network regression model for the given dataset.
 Explain the problem statement
 
 ## Neural Network Model
+![4](https://github.com/21003698/basic-nn-model/assets/93427522/de6a5c18-df45-477c-9c22-78b393f26912)
 
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
@@ -125,22 +125,23 @@ ai_brain.predict(X_n1_1)
 ```
 
 ## Dataset Information
+![san3](https://github.com/21003698/basic-nn-model/assets/93427522/7e9e4651-60a1-46bd-9aec-5b3715bb75e0)
 
-Include screenshot of the dataset
+
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+![san2](https://github.com/21003698/basic-nn-model/assets/93427522/4c049a47-d835-45db-9d3e-c1e19c3719ec)
 
 ### Test Data Root Mean Squared Error
+![san2](https://github.com/21003698/basic-nn-model/assets/93427522/674b85dd-7e7d-4210-826c-2de97b498b3b)
 
-Find the test data root mean squared error
 
 ### New Sample Data Prediction
+![san](https://github.com/21003698/basic-nn-model/assets/93427522/dd3f04a2-c103-4ed3-9493-b2cf5d9657a0)
 
-Include your sample input and output here
 
 ## RESULT
 Therefore a Neural Network Regression Model is developed successfully for the given dataset.
